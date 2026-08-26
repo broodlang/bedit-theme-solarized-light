@@ -4,7 +4,8 @@
   :name "bedit-theme-solarized-light"
   :version "0.1.2"
   :brood ">= 0.5.0"
-  :description "The Solarized Light colour theme for the bedit editor — a plugin package (:enhances bedit)."
+  :description
+    "The Solarized Light colour theme for the bedit editor — a plugin package (:enhances bedit)."
   :repository "https://github.com/broodlang/bedit-theme-solarized-light"
   :enhances {bedit ">= 0.1"}
   :source-paths ["src"])
