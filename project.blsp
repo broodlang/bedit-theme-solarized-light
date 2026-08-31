@@ -2,7 +2,7 @@
 ;; package (`:enhances bedit`). Pure data; installed at runtime via M-x package-list.
 (project
   :name "bedit-theme-solarized-light"
-  :version "0.3.0"
+  :version "0.3.1"
   :description
     "The Solarized Light colour theme for the bedit editor — a plugin package (:enhances bedit)."
   :repository "https://github.com/broodlang/bedit-theme-solarized-light"
