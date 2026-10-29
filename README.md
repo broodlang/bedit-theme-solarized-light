@@ -21,7 +21,7 @@ or `M-x package-install RET bedit-theme-solarized-light RET`. **Solarized Light*
 
 ## The contribution contract
 
-```brood
+```brood fragment
 (defn bedit-plugin ()
   {:themes [{:name "Solarized Light" :palette { … 16 role → "#rrggbb" … }}]})
 ```
